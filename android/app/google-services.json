@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70913981987",
+    "project_id": "foodhot-3a855",
+    "storage_bucket": "foodhot-3a855.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70913981987:android:7037bf828af30651ac7b96",
+        "android_client_info": {
+          "package_name": "com.example.foodhot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70913981987-6mi2s35il86th0bse0iht00eedsjonp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxEpvQJRaBAwqLmS0Wo7zjUND12uA_3Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70913981987-6mi2s35il86th0bse0iht00eedsjonp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

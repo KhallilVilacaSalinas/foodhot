@@ -1,0 +1,17 @@
+class Categoria {
+  String _nome;
+  String _caminhoFoto;
+
+  Categoria(
+    this._nome,
+    this._caminhoFoto,
+  );
+
+  String get nome => _nome;
+
+  set nome(String value) => _nome = value;
+
+  String get caminhoFoto => _caminhoFoto;
+
+  set caminhoFoto(String value) => _caminhoFoto = value;
+}
